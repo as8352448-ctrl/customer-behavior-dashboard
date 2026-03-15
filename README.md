@@ -85,5 +85,7 @@ customer-behavior-dashboard
 Run the SQL script to create the database:
 
 ```sql
+create database startersql;
+use startersql;
 
-
+sql/database_setup.sql
